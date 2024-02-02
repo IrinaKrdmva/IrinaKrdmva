@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on a website for a friend.<br>
 - 🌱 I’m currently learning the intrecacies of <img height="20em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"> (easy feat I know :grin:).<br>
 - :video_game: My favourite game at the moment is Diablo IV.<br>
-- ⚡ You can check out my <b>Linkedin</b> at: https://www.linkedin.com/in/irina-karadimova-307a7618a.
 </div> 
 <br>
 <hr>
@@ -31,4 +30,12 @@
 <div align="center">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irinakrdmva&show_icons=true&theme=maroongold" alt="total stats">
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinakrdmva&layout=compact&theme=maroongold" alt="top languages">
+</div>
+
+<br>
+<hr>
+<h1 align="center">Contact Me At: </h1> 
+<div align="center">
+<a href="https://www.linkedin.com/in/irina-karadimova-307a7618a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
+<a href="mailto: irinamaple84@gmail.com" class="email" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </div>
