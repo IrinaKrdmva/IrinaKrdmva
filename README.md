@@ -1,11 +1,34 @@
-### Hey, My name is Irina
+<h1 align="center">Hey, My name is Irina </h1> 
 
-- 🔭 I’m currently working on a website for a friend.
-- 🌱 I’m currently learning the intrecacies of **JavaScript** (easy feat I know :grin:).  
-- :video_game: My favourite game at the moment is Diablo IV.
-- ⚡ You can check out my **Linkedin** at: [Irina Karadimova](https://www.linkedin.com/in/irina-karadimova-307a7618a).
- 
-![octocat-pequeno](https://github.com/IrinaKrdmva/IrinaKrdmva/assets/59840210/04a98aba-0f31-40aa-803f-96de95855136)
+<div align="center">
+        <img height="250em" src="https://github.com/IrinaKrdmva/IrinaKrdmva/assets/59840210/04a98aba-0f31-40aa-803f-96de95855136" alt="">
+</div>
 
- My Skills right now: 
- - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<h1 align="center">About Me: </h1> 
+<div align="justify">
+- 🔭 I’m currently working on a website for a friend.<br>
+- 🌱 I’m currently learning the intrecacies of <img height="20em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"> (easy feat I know :grin:).<br>
+- :video_game: My favourite game at the moment is Diablo IV.<br>
+- ⚡ You can check out my <b>Linkedin</b> at: https://www.linkedin.com/in/irina-karadimova-307a7618a.
+</div> 
+<br>
+<hr>
+<h1 align="center">🧰 Languages and Tools </h1> 
+
+<div align="center" style="background-color: rgb(198, 207, 207);">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php">
+        <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql">
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git">
+        <img height="40em" src="https://octodex.github.com/images/original.png" alt="github">
+</div>
+
+<br><br>
+<div align="center">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irinakrdmva&show_icons=true&theme=maroongold" alt="total stats">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinakrdmva&layout=compact&theme=maroongold" alt="top languages">
+</div>
