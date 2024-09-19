@@ -22,6 +22,8 @@
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php">
         <img height="40em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql">
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git">
         <img height="40em" src="https://octodex.github.com/images/original.png" alt="github">
 </div>
