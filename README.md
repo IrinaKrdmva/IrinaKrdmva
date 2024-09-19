@@ -7,7 +7,7 @@
 <h1 align="center">About Me: </h1> 
 <div align="justify">
 - 🔭 I’m currently working on a website for a friend.<br>
-- 🌱 I’m currently learning the intrecacies of <img height="20em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"> (easy feat I know :grin:).<br>
+- 🌱 I’m currently learning the intrecacies of <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> and <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> (easy feat I know :grin:).<br>
 - :video_game: My favourite game at the moment is Diablo IV.<br>
 </div> 
 <br>
